@@ -516,6 +516,6 @@ Portfolio: `<your-portfolio-url>`
 
 ---
 
-## 📄 License
+## 📄 
 
 This project is created for educational, portfolio and coding-assignment purposes.
